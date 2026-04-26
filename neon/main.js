@@ -74,7 +74,7 @@ var player = new function () {
     };
 
     this.img = new Image();
-    this.img.src = "/bike.png";
+    this.img.src = "bike.png";
     this.draw = function () {
 
 
